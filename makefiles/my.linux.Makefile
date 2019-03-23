@@ -33,7 +33,12 @@ COPTS := -O3 -fomit-frame-pointer
 %.javaxint_run: %.javaxint
 	-mv $< $(TEST).java
 	-$(JDKC) -d . $(TEST).java
+########################################
+# kotlin
+########################################
 
+%.kt_run: %.kt
+	-$(KTC) $(TEST).kt -include-runtime -d $(TEST).jar
 
 ########################################
 # gcc
