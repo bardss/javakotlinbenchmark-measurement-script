@@ -1,5 +1,0 @@
-
-MAKE:
-kotlinc NBodyKtConv.kt -include-runtime -d NBodyKtConv.jar
-
-5.92s to complete and log all make actions

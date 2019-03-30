@@ -1,5 +1,0 @@
-
-MAKE:
-kotlinc NBodyKtIdiom.kt -include-runtime -d NBodyKtIdiom.jar
-
-5.72s to complete and log all make actions

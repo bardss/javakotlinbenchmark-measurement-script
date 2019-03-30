@@ -1,7 +1,0 @@
-
-MAKE:
-javac *.java
-mv ../../../programs/NBodyJava/*.class .
-jar -cf NBodyJava.jar *.class
-
-1.01s to complete and log all make actions

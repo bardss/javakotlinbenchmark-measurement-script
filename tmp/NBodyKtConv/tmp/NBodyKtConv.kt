@@ -1,1 +1,0 @@
-/home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/code/NBodyKtConv.kt
