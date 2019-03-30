@@ -1,0 +1,16 @@
+
+Sat, 30 Mar 2019 13:00:38 GMT
+
+MAKE:
+javac *.java
+mv ../../../programs/NBodyJava/*.class .
+jar -cf NBodyJava.jar *.class
+
+1.01s to complete and log all make actions
+
+COMMAND LINE:
+java -cp NBodyJava.jar NBodyJava 0
+
+PROGRAM OUTPUT:
+-0.169075164
+-0.169075164

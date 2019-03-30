@@ -1,0 +1,70 @@
+package kotlinbenchmarks.idiomatic.binarytrees
+
+import java.util.concurrent.Executors
+import java.util.concurrent.TimeUnit
+
+fun main(args: Array&lt;String&gt;) {
+    BinaryTreesIdiom.execute(args)
+}
+
+object BinaryTreesIdiom {
+
+    private const val MIN_DEPTH = 4
+    private val EXECUTOR_SERVICE by lazy { Executors.newFixedThreadPool(Runtime.getRuntime().availableProcessors()) }
+
+    &#64;JvmStatic
+    fun execute(args: Array&lt;String&gt;) {
+        var n = 0
+        if (args.isNotEmpty()) {
+            n = args[0].toInt()
+        }
+
+        val maxDepth = if (n &lt; MIN_DEPTH + 2) MIN_DEPTH + 2 else n
+        val stretchDepth = maxDepth + 1
+
+        println(&quot;stretch tree of depth $stretchDepth \t check: ${bottomUpTree(stretchDepth).itemCheck()}&quot;)
+
+        val longLivedTree = bottomUpTree(maxDepth)
+
+        val results = arrayOfNulls&lt;String&gt;((maxDepth - MIN_DEPTH) / 2 + 1)
+
+        var d = MIN_DEPTH
+        while (d &lt;= maxDepth) {
+            val depth = d
+            EXECUTOR_SERVICE.execute {
+                var check = 0
+
+                val iterations = 1 shl maxDepth - depth + MIN_DEPTH
+                for (i in 1..iterations) {
+                    val treeNode1 = bottomUpTree(depth)
+                    check += treeNode1.itemCheck()
+                }
+                results[(depth - MIN_DEPTH) / 2] = &quot;$iterations \t trees of depth $depth \t check: $check&quot;
+            }
+            d += 2
+        }
+
+        EXECUTOR_SERVICE.shutdown()
+        EXECUTOR_SERVICE.awaitTermination(120L, TimeUnit.SECONDS)
+
+        results.forEach {
+            println(it)
+        }
+
+        println(&quot;long lived tree of depth $maxDepth \t check: ${longLivedTree.itemCheck()}&quot;)
+    }
+
+    private fun bottomUpTree(depth: Int): TreeNode {
+        return if (0 &lt; depth) {
+            TreeNode(bottomUpTree(depth - 1), bottomUpTree(depth - 1))
+        } else TreeNode()
+    }
+
+    private data class TreeNode(
+            val left: TreeNode? = null,
+            val right: TreeNode? = null
+    ) {
+        fun itemCheck(): Int = if (null == left) 1 else 1 + left.itemCheck() + right!!.itemCheck()
+    }
+
+}

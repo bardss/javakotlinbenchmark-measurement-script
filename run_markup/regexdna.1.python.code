@@ -1,0 +1,39 @@
+# The Computer Language Benchmarks Game
+# http://benchmarksgame.alioth.debian.org/
+# contributed by Dominique Wahli
+
+from sys import stdin
+from re import sub, findall
+
+seq = stdin.read()
+ilen = len(seq)
+
+seq = sub(&apos;(&gt;.*\n)|(\n)&apos;, &apos;&apos;, seq)
+clen = len(seq)
+
+variants = (
+      &apos;agggtaaa|tttaccct&apos;,
+      &apos;[cgt]gggtaaa|tttaccc[acg]&apos;,
+      &apos;a[act]ggtaaa|tttacc[agt]t&apos;,
+      &apos;ag[act]gtaaa|tttac[agt]ct&apos;,
+      &apos;agg[act]taaa|ttta[agt]cct&apos;,
+      &apos;aggg[acg]aaa|ttt[cgt]ccct&apos;,
+      &apos;agggt[cgt]aa|tt[acg]accct&apos;,
+      &apos;agggta[cgt]a|t[acg]taccct&apos;,
+      &apos;agggtaa[cgt]|[acg]ttaccct&apos;)
+for f in variants:
+    print f, len(findall(f, seq))
+
+subst = {
+      &apos;B&apos; : &apos;(c|g|t)&apos;, &apos;D&apos; : &apos;(a|g|t)&apos;,   &apos;H&apos; : &apos;(a|c|t)&apos;, &apos;K&apos; : &apos;(g|t)&apos;,
+      &apos;M&apos; : &apos;(a|c)&apos;,   &apos;N&apos; : &apos;(a|c|g|t)&apos;, &apos;R&apos; : &apos;(a|g)&apos;,   &apos;S&apos; : &apos;(c|g)&apos;,
+      &apos;V&apos; : &apos;(a|c|g)&apos;, &apos;W&apos; : &apos;(a|t)&apos;,     &apos;Y&apos; : &apos;(c|t)&apos;}
+for f, r in subst.items(): 
+    seq = sub(f, r, seq)
+
+print
+print ilen
+print clen
+print len(seq)
+
+

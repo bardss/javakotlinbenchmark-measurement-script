@@ -1,0 +1,4 @@
+name,lang,id,n,size(B),cpu(s),mem(KB),status,load,elapsed(s)
+NBodyJava,java,1,0,1644,0.152,0,0,45% 73% 18% 0%,0.111
+NBodyKtConv,kt,1,0,1509,0.164,0,0,17% 50% 75% 11%,0.115
+NBodyKtIdiom,kt,1,0,1482,0.168,0,0,25% 50% 75% 23%,0.119

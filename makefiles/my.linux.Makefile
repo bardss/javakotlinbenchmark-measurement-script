@@ -25,10 +25,10 @@ COPTS := -O3 -fomit-frame-pointer
 # java
 ########################################
 
-%.java_run: %.java 
-	-mv $< $(TEST).java
-	-$(JDKC) -d . $(TEST).java
-
+%.java_run: %.java
+	-$(JDKC) *.java
+	-mv ../../../programs/$(TEST)/*.class .
+	-$(JDJAR) -cf $(TEST).jar *.class
 
 %.javaxint_run: %.javaxint
 	-mv $< $(TEST).java

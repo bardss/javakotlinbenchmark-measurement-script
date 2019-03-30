@@ -1,0 +1,397 @@
+2019-03-23 19:56:19,088 INFO no /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat directory - no *.dat to remove
+2019-03-23 19:56:19,088 INFO no /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/regexdna/dat directory - no *.dat to remove
+2019-03-23 19:56:19,088 INFO no /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat directory - no *.dat to remove
+2019-03-23 19:56:19,088 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody
+2019-03-23 19:56:19,088 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/log
+2019-03-23 19:56:19,088 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat
+2019-03-23 19:56:19,089 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/code
+2019-03-23 19:56:19,090 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/regexdna/log
+2019-03-23 19:56:19,090 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/regexdna/dat
+2019-03-23 19:56:19,090 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/regexdna/code
+2019-03-23 19:56:21,150 INFO .....OK .....nbody.java-2.java [4]
+2019-03-23 19:56:28,510 INFO .....OK .....nbody.python [3]
+2019-03-23 19:56:28,525 WARNING No such file or directory ['./NBodyConv.kt_run', '10000']
+2019-03-23 19:56:28,526 INFO .MAKE ERROR NBodyConv.kt [2]
+2019-03-23 19:56:28,924 INFO .OK .....regexdna.python [1]
+2019-03-23 19:56:28,925 INFO mkcsv building csv files from nbody/dat
+2019-03-23 19:56:28,926 INFO mkcsv building csv files from regexdna/dat
+2019-03-23 19:56:28,926 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-23 19:56:28,926 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-23 19:56:28,927 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-23 19:57:26,933 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat *.dat
+2019-03-23 19:57:26,950 WARNING No such file or directory ['./nbody.kt_run', '10000']
+2019-03-23 19:57:26,951 INFO .MAKE ERROR nbody.kt [3]
+2019-03-23 19:57:29,001 INFO .....OK .....nbody.java-2.java [2]
+2019-03-23 19:57:36,528 INFO .....OK .....nbody.python [1]
+2019-03-23 19:57:36,528 INFO mkcsv building csv files from nbody/dat
+2019-03-23 19:57:36,529 INFO mkcsv building csv files from regexdna/dat
+2019-03-23 19:57:36,529 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-23 19:57:36,529 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-23 19:57:36,530 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-23 20:05:38,762 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat *.dat
+2019-03-23 20:05:47,059 WARNING No such file or directory ['./nbody.kt_run', '10000']
+2019-03-23 20:05:47,060 INFO .MAKE ERROR nbody.kt [3]
+2019-03-23 20:05:49,216 INFO .....OK .....nbody.java-2.java [2]
+2019-03-23 20:05:56,913 INFO .....OK .....nbody.python [1]
+2019-03-23 20:05:56,914 INFO mkcsv building csv files from nbody/dat
+2019-03-23 20:05:56,915 INFO mkcsv building csv files from regexdna/dat
+2019-03-23 20:05:56,915 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-23 20:05:56,915 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-23 20:05:56,916 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-23 20:07:33,235 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat *.dat
+2019-03-23 20:07:39,186 INFO .PROGRAM FAILED nbody.kt [3]
+2019-03-23 20:07:41,344 INFO .....OK .....nbody.java-2.java [2]
+2019-03-23 20:07:48,810 INFO .....OK .....nbody.python [1]
+2019-03-23 20:07:48,811 INFO mkcsv building csv files from nbody/dat
+2019-03-23 20:07:48,811 INFO mkcsv building csv files from regexdna/dat
+2019-03-23 20:07:48,812 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-23 20:07:48,812 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-23 20:07:48,813 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-23 20:08:29,477 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat *.dat
+2019-03-23 20:08:35,329 INFO .PROGRAM FAILED nbody.kt [3]
+2019-03-23 20:08:37,538 INFO .....OK .....nbody.java-2.java [2]
+2019-03-23 20:08:45,231 INFO .....OK .....nbody.python [1]
+2019-03-23 20:08:45,231 INFO mkcsv building csv files from nbody/dat
+2019-03-23 20:08:45,232 INFO mkcsv building csv files from regexdna/dat
+2019-03-23 20:08:45,232 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-23 20:08:45,233 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-23 20:08:45,233 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-23 20:17:25,725 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbody/dat *.dat
+2019-03-23 20:17:32,858 INFO .....OK .....nbody.kt [3]
+2019-03-23 20:17:35,241 INFO .....OK .....nbody.java-2.java [2]
+2019-03-23 20:17:42,756 INFO .....OK .....nbody.python [1]
+2019-03-23 20:17:42,756 INFO mkcsv building csv files from nbody/dat
+2019-03-23 20:17:42,757 INFO mkcsv building csv files from regexdna/dat
+2019-03-23 20:17:42,758 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-23 20:17:42,758 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-23 20:17:42,759 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-27 09:21:11,971 DEBUG cleaning nbody/dat
+2019-03-27 09:21:16,770 INFO .PROGRAM FAILED NBodyConv.kt [3]
+2019-03-27 09:21:18,744 INFO .PROGRAM FAILED NBodyIdiom.kt [2]
+2019-03-27 09:21:19,705 INFO .PROGRAM FAILED NBody.java [1]
+2019-03-27 09:21:19,706 INFO mkcsv building csv files from nbody/dat
+2019-03-27 09:21:19,706 INFO mkcsv building csv files from regexdna/dat
+2019-03-27 09:21:19,707 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-27 09:21:19,707 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-27 09:21:19,709 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:36:52,152 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees
+2019-03-28 10:36:52,153 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/log
+2019-03-28 10:36:52,153 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat
+2019-03-28 10:36:52,153 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/code
+2019-03-28 10:36:52,155 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchredux
+2019-03-28 10:36:52,155 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchredux/log
+2019-03-28 10:36:52,155 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchredux/dat
+2019-03-28 10:36:52,155 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchredux/code
+2019-03-28 10:36:52,156 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fasta
+2019-03-28 10:36:52,156 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fasta/log
+2019-03-28 10:36:52,156 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fasta/dat
+2019-03-28 10:36:52,156 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fasta/code
+2019-03-28 10:36:52,156 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrot
+2019-03-28 10:36:52,156 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrot/log
+2019-03-28 10:36:52,157 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrot/dat
+2019-03-28 10:36:52,157 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrot/code
+2019-03-28 10:36:52,158 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnorm
+2019-03-28 10:36:52,158 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnorm/log
+2019-03-28 10:36:52,158 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnorm/dat
+2019-03-28 10:36:52,158 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnorm/code
+2019-03-28 10:36:52,549 INFO .PROGRAM FAILED BinaryTrees.java [15]
+2019-03-28 10:36:57,430 INFO .PROGRAM FAILED BinaryTreesConv.kt [14]
+2019-03-28 10:36:59,513 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [13]
+2019-03-28 10:36:59,852 INFO .PROGRAM FAILED FannkuchRedux.java [12]
+2019-03-28 10:37:01,930 INFO .PROGRAM FAILED FannkuchReduxConv.kt [11]
+2019-03-28 10:37:03,976 INFO .PROGRAM FAILED FannkuchReduxIdiom.kt [10]
+2019-03-28 10:37:06,084 INFO .PROGRAM FAILED FastaIdiom.kt [9]
+2019-03-28 10:37:08,090 INFO .PROGRAM FAILED FastaConv.kt [8]
+2019-03-28 10:37:08,438 INFO .PROGRAM FAILED Fasta.java [7]
+2019-03-28 10:37:08,654 DEBUG Keyboard Interrupt
+2019-03-28 10:46:31,195 INFO .PROGRAM FAILED Mandelbrot.java [6]
+2019-03-28 10:46:33,185 INFO .PROGRAM FAILED MandelbrotConv.kt [5]
+2019-03-28 10:46:35,179 INFO .PROGRAM FAILED MandelbrotIdiom.kt [4]
+2019-03-28 10:46:37,133 INFO .PROGRAM FAILED SpectralNormIdiom.kt [3]
+2019-03-28 10:46:39,137 INFO .PROGRAM FAILED SpectralNormConv.kt [2]
+2019-03-28 10:46:39,519 INFO .PROGRAM FAILED SpectralNorm.java [1]
+2019-03-28 10:46:39,519 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:46:39,520 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:46:39,520 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:46:39,521 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:46:39,521 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:46:39,523 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:46:39,524 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:46:39,524 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:46:39,529 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:47:05,559 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:47:07,623 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [3]
+2019-03-28 10:47:08,019 INFO .PROGRAM FAILED BinaryTrees.java [2]
+2019-03-28 10:47:10,045 INFO .PROGRAM FAILED BinaryTreesConv.kt [1]
+2019-03-28 10:47:10,045 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:47:10,045 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:47:10,046 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:47:10,046 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:47:10,046 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:47:10,047 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:47:10,047 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:47:10,047 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:47:10,050 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:49:04,187 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:49:06,247 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [3]
+2019-03-28 10:49:06,624 INFO .PROGRAM FAILED BinaryTrees.java [2]
+2019-03-28 10:49:08,688 INFO .PROGRAM FAILED BinaryTreesConv.kt [1]
+2019-03-28 10:49:08,689 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:49:08,689 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:49:08,689 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:49:08,690 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:49:08,690 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:49:08,690 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:49:08,691 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:49:08,691 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:49:08,694 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:49:14,705 INFO nothing to be done - measurements are up-to-date
+2019-03-28 10:49:38,257 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:49:40,262 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [3]
+2019-03-28 10:49:41,258 INFO .PROGRAM FAILED binarytrees.java [2]
+2019-03-28 10:49:43,306 INFO .PROGRAM FAILED BinaryTreesConv.kt [1]
+2019-03-28 10:49:43,306 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:49:43,306 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:49:43,307 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:49:43,307 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:49:43,307 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:49:43,307 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:49:43,308 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:49:43,308 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:49:43,310 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:52:14,379 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:52:16,521 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [3]
+2019-03-28 10:52:17,593 INFO .PROGRAM FAILED binarytrees.java [2]
+2019-03-28 10:52:19,652 INFO .PROGRAM FAILED BinaryTreesConv.kt [1]
+2019-03-28 10:52:19,653 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:52:19,653 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:52:19,653 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:52:19,654 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:52:19,654 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:52:19,654 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:52:19,655 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:52:19,655 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:52:19,658 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:53:13,726 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:53:15,752 INFO .PROGRAM FAILED BinaryTreesConv.kt [5]
+2019-03-28 10:53:16,814 INFO .PROGRAM FAILED binarytrees.java [4]
+2019-03-28 10:53:16,823 WARNING No such file or directory ['./binarytrees$TreeNode.class_run', '21']
+2019-03-28 10:53:16,825 INFO .MAKE ERROR binarytrees$TreeNode.class [3]
+2019-03-28 10:53:18,869 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [2]
+2019-03-28 10:53:18,878 WARNING No such file or directory ['./binarytrees.class_run', '21']
+2019-03-28 10:53:18,879 INFO .MAKE ERROR binarytrees.class [1]
+2019-03-28 10:53:18,880 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:53:18,880 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:53:18,881 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:53:18,882 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:53:18,883 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:53:18,884 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:53:18,885 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:53:18,886 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:53:18,891 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:55:25,085 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:55:27,135 INFO .PROGRAM FAILED BinaryTreesConv.kt [5]
+2019-03-28 10:55:27,144 WARNING No such file or directory ['./binarytrees.class_run', '21']
+2019-03-28 10:55:27,145 INFO .MAKE ERROR binarytrees.class [4]
+2019-03-28 10:55:28,194 INFO .PROGRAM FAILED binarytrees.java [3]
+2019-03-28 10:55:30,237 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [2]
+2019-03-28 10:55:30,246 WARNING No such file or directory ['./binarytrees$TreeNode.class_run', '21']
+2019-03-28 10:55:30,247 INFO .MAKE ERROR binarytrees$TreeNode.class [1]
+2019-03-28 10:55:30,248 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:55:30,249 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:55:30,249 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:55:30,249 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:55:30,250 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:55:30,250 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:55:30,251 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:55:30,251 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:55:30,258 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:56:39,972 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:56:42,014 INFO .PROGRAM FAILED BinaryTreesConv.kt [5]
+2019-03-28 10:56:42,023 WARNING No such file or directory ['./binarytrees.class_run', '21']
+2019-03-28 10:56:42,024 INFO .MAKE ERROR binarytrees.class [4]
+2019-03-28 10:56:43,117 INFO .PROGRAM FAILED binarytrees.java [3]
+2019-03-28 10:56:45,159 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [2]
+2019-03-28 10:56:45,170 WARNING No such file or directory ['./binarytrees$TreeNode.class_run', '21']
+2019-03-28 10:56:45,171 INFO .MAKE ERROR binarytrees$TreeNode.class [1]
+2019-03-28 10:56:45,172 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:56:45,172 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:56:45,173 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:56:45,173 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:56:45,174 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:56:45,175 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:56:45,177 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:56:45,177 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:56:45,182 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 10:57:25,135 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 10:57:27,103 INFO .PROGRAM FAILED BinaryTreesConv.kt [3]
+2019-03-28 10:57:28,163 INFO .PROGRAM FAILED binarytrees.java [2]
+2019-03-28 10:57:30,233 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [1]
+2019-03-28 10:57:30,233 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 10:57:30,234 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 10:57:30,234 INFO mkcsv building csv files from fasta/dat
+2019-03-28 10:57:30,234 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 10:57:30,234 INFO mkcsv building csv files from nbody/dat
+2019-03-28 10:57:30,235 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 10:57:30,235 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 10:57:30,236 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 10:57:30,239 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-28 11:07:18,228 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytrees/dat *.dat
+2019-03-28 11:07:19,173 INFO .PROGRAM FAILED binarytrees.java [6]
+2019-03-28 11:07:19,181 WARNING No such file or directory ['./binarytrees.class_run', '21']
+2019-03-28 11:07:19,182 INFO .MAKE ERROR binarytrees.class [5]
+2019-03-28 11:07:19,195 WARNING No such file or directory ['./binarytrees$TreeNode.class_run', '21']
+2019-03-28 11:07:19,196 INFO .MAKE ERROR binarytrees$TreeNode.class [4]
+2019-03-28 11:07:21,218 INFO .PROGRAM FAILED BinaryTreesIdiom.kt [3]
+2019-03-28 11:07:23,309 INFO .PROGRAM FAILED BinaryTreesConv.kt [2]
+2019-03-28 11:07:23,319 WARNING No such file or directory ['./binarytrees.jar_run', '21']
+2019-03-28 11:07:23,320 INFO .MAKE ERROR binarytrees.jar [1]
+2019-03-28 11:07:23,321 INFO mkcsv building csv files from binarytrees/dat
+2019-03-28 11:07:23,322 INFO mkcsv building csv files from fannkuchredux/dat
+2019-03-28 11:07:23,322 INFO mkcsv building csv files from fasta/dat
+2019-03-28 11:07:23,323 INFO mkcsv building csv files from mandelbrot/dat
+2019-03-28 11:07:23,323 INFO mkcsv building csv files from nbody/dat
+2019-03-28 11:07:23,324 INFO mkcsv building csv files from spectralnorm/dat
+2019-03-28 11:07:23,326 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-28 11:07:23,326 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-28 11:07:23,330 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 12:57:54,747 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava
+2019-03-30 12:57:54,747 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/log
+2019-03-30 12:57:54,747 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat
+2019-03-30 12:57:54,747 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/code
+2019-03-30 12:57:54,749 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv
+2019-03-30 12:57:54,749 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/log
+2019-03-30 12:57:54,749 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/dat
+2019-03-30 12:57:54,749 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/code
+2019-03-30 12:57:54,750 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom
+2019-03-30 12:57:54,750 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/log
+2019-03-30 12:57:54,750 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/dat
+2019-03-30 12:57:54,750 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/code
+2019-03-30 12:57:55,814 INFO .PROGRAM FAILED NBodyJava.java [3]
+2019-03-30 12:58:05,138 INFO .OK .....NBodyKtConv.kt [2]
+2019-03-30 12:58:11,304 INFO .OK .....NBodyKtIdiom.kt [1]
+2019-03-30 12:58:11,304 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 12:58:11,304 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 12:58:11,304 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 12:58:11,305 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 12:58:11,305 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 12:58:11,306 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 12:59:07,449 WARNING No such file or directory ['./NBodySystem.class_run', '0']
+2019-03-30 12:59:07,450 INFO .MAKE ERROR NBodySystem.class [3]
+2019-03-30 12:59:07,461 WARNING No such file or directory ['./Body.class_run', '0']
+2019-03-30 12:59:07,462 INFO .MAKE ERROR Body.class [2]
+2019-03-30 12:59:07,475 WARNING No such file or directory ['./NBodyJava.class_run', '0']
+2019-03-30 12:59:07,477 INFO .MAKE ERROR NBodyJava.class [1]
+2019-03-30 12:59:07,477 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 12:59:07,478 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 12:59:07,478 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 12:59:07,479 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 12:59:07,479 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 12:59:07,481 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 12:59:33,562 INFO nothing to be done - measurements are up-to-date
+2019-03-30 12:59:41,595 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 12:59:42,591 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 12:59:42,592 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 12:59:42,592 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 12:59:42,592 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 12:59:42,593 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 12:59:42,593 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 12:59:42,594 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 12:59:49,958 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 12:59:50,948 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 12:59:50,949 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 12:59:50,949 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 12:59:50,949 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 12:59:50,950 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 12:59:50,950 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 12:59:50,951 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:13:19,203 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 13:13:20,263 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 13:13:20,263 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:13:20,264 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:13:20,264 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:13:20,265 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:13:20,265 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:13:20,266 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:14:04,627 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 13:14:05,686 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 13:14:05,686 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:14:05,687 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:14:05,687 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:14:05,687 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:14:05,688 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:14:05,688 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:16:06,310 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 13:16:07,320 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 13:16:07,321 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:16:07,321 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:16:07,321 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:16:07,322 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:16:07,322 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:16:07,323 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:17:54,983 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 13:17:56,002 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 13:17:56,003 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:17:56,003 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:17:56,003 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:17:56,003 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:17:56,004 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:17:56,004 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:23:35,107 INFO remove /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat *.dat
+2019-03-30 13:23:36,323 INFO .PROGRAM FAILED NBodyJava.java [1]
+2019-03-30 13:23:36,323 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:23:36,324 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:23:36,324 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:23:36,324 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:23:36,325 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:23:36,325 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:52:58,174 INFO .OK .........NBodyJava.java [1]
+2019-03-30 13:52:58,175 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:52:58,175 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:52:58,175 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:52:58,176 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:52:58,176 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:52:58,177 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 13:54:05,870 INFO nothing to be done - measurements are up-to-date
+2019-03-30 13:57:29,889 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava
+2019-03-30 13:57:29,890 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/log
+2019-03-30 13:57:29,890 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat
+2019-03-30 13:57:29,890 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/code
+2019-03-30 13:57:29,890 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/log
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/dat
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/code
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/log
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/dat
+2019-03-30 13:57:29,891 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/code
+2019-03-30 13:57:32,144 INFO .OK .........NBodyJava.java [3]
+2019-03-30 13:57:39,101 INFO .OK .........NBodyKtConv.kt [2]
+2019-03-30 13:57:46,506 INFO .OK .........NBodyKtIdiom.kt [1]
+2019-03-30 13:57:46,506 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 13:57:46,507 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 13:57:46,507 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 13:57:46,508 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 13:57:46,508 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 13:57:46,509 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 14:00:37,513 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava
+2019-03-30 14:00:37,513 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/log
+2019-03-30 14:00:37,513 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/dat
+2019-03-30 14:00:37,513 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyJava/code
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/log
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/dat
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtConv/code
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/log
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/dat
+2019-03-30 14:00:37,514 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/NBodyKtIdiom/code
+2019-03-30 14:00:39,719 INFO .OK .........NBodyJava.java [3]
+2019-03-30 14:00:46,981 INFO .OK .........NBodyKtConv.kt [2]
+2019-03-30 14:00:53,963 INFO .OK .........NBodyKtIdiom.kt [1]
+2019-03-30 14:00:53,963 INFO mkcsv building csv files from NBodyJava/dat
+2019-03-30 14:00:53,963 INFO mkcsv building csv files from NBodyKtConv/dat
+2019-03-30 14:00:53,964 INFO mkcsv building csv files from NBodyKtIdiom/dat
+2019-03-30 14:00:53,964 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 14:00:53,964 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 14:00:53,965 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
