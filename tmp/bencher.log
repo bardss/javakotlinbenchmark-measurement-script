@@ -1,111 +1,111 @@
-2019-03-30 16:47:03,662 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesJava
-2019-03-30 16:47:03,663 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesJava/log
-2019-03-30 16:47:03,663 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesJava/dat
-2019-03-30 16:47:03,663 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesJava/code
-2019-03-30 16:47:03,663 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtConv
-2019-03-30 16:47:03,663 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtConv/log
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtConv/dat
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtConv/code
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtIdiom
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtIdiom/log
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtIdiom/dat
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesKtIdiom/code
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxJava
-2019-03-30 16:47:03,664 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxJava/log
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxJava/dat
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxJava/code
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtConv
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtConv/log
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtConv/dat
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtConv/code
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtIdiom
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtIdiom/log
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtIdiom/dat
-2019-03-30 16:47:03,665 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxKtIdiom/code
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaJava
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaJava/log
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaJava/dat
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaJava/code
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtConv
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtConv/log
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtConv/dat
-2019-03-30 16:47:03,666 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtConv/code
-2019-03-30 16:47:03,667 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtIdiom
-2019-03-30 16:47:03,667 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtIdiom/log
-2019-03-30 16:47:03,667 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtIdiom/dat
-2019-03-30 16:47:03,667 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaKtIdiom/code
-2019-03-30 16:47:03,668 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotJava
-2019-03-30 16:47:03,668 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotJava/log
-2019-03-30 16:47:03,668 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotJava/dat
-2019-03-30 16:47:03,668 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotJava/code
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtConv
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtConv/log
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtConv/dat
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtConv/code
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtIdiom
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtIdiom/log
-2019-03-30 16:47:03,669 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtIdiom/dat
-2019-03-30 16:47:03,670 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotKtIdiom/code
-2019-03-30 16:47:03,671 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyJava
-2019-03-30 16:47:03,671 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyJava/log
-2019-03-30 16:47:03,671 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyJava/dat
-2019-03-30 16:47:03,671 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyJava/code
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtConv
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtConv/log
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtConv/dat
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtConv/code
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtIdiom
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtIdiom/log
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtIdiom/dat
-2019-03-30 16:47:03,672 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyKtIdiom/code
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormJava
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormJava/log
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormJava/dat
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormJava/code
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtConv
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtConv/log
-2019-03-30 16:47:03,673 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtConv/dat
-2019-03-30 16:47:03,674 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtConv/code
-2019-03-30 16:47:03,674 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtIdiom
-2019-03-30 16:47:03,674 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtIdiom/log
-2019-03-30 16:47:03,674 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtIdiom/dat
-2019-03-30 16:47:03,674 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormKtIdiom/code
-2019-03-30 16:47:05,072 INFO .OK binarytreesJava.java [18]
-2019-03-30 16:47:10,156 INFO .OK binarytreesKtConv.kt [17]
-2019-03-30 16:47:16,684 INFO .OK binarytreesKtIdiom.kt [16]
-2019-03-30 16:47:18,361 INFO .OK fannkuchreduxJava.java [15]
-2019-03-30 16:47:25,520 INFO .OK fannkuchreduxKtConv.kt [14]
-2019-03-30 16:47:32,190 INFO .OK fannkuchreduxKtIdiom.kt [13]
-2019-03-30 16:47:33,543 INFO .OK fastaJava.java [12]
-2019-03-30 16:47:41,205 INFO .OK fastaKtConv.kt [11]
-2019-03-30 16:47:48,041 INFO .OK fastaKtIdiom.kt [10]
-2019-03-30 16:47:49,514 INFO .OK mandelbrotJava.java [9]
-2019-03-30 16:47:58,499 INFO .OK mandelbrotKtConv.kt [8]
-2019-03-30 16:48:06,887 INFO .OK mandelbrotKtIdiom.kt [7]
-2019-03-30 16:48:09,907 INFO .OK nbodyJava.java [6]
-2019-03-30 16:48:17,751 INFO .OK nbodyKtConv.kt [5]
-2019-03-30 16:48:25,532 INFO .OK nbodyKtIdiom.kt [4]
-2019-03-30 16:48:26,878 INFO .OK spectralnormJava.java [3]
-2019-03-30 16:48:33,953 INFO .OK spectralnormKtConv.kt [2]
-2019-03-30 16:48:41,758 INFO .OK spectralnormKtIdiom.kt [1]
-2019-03-30 16:48:41,759 INFO mkcsv building csv files from binarytreesJava/dat
-2019-03-30 16:48:41,759 INFO mkcsv building csv files from binarytreesKtConv/dat
-2019-03-30 16:48:41,759 INFO mkcsv building csv files from binarytreesKtIdiom/dat
-2019-03-30 16:48:41,759 INFO mkcsv building csv files from fannkuchreduxJava/dat
-2019-03-30 16:48:41,759 INFO mkcsv building csv files from fannkuchreduxKtConv/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from fannkuchreduxKtIdiom/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from fastaJava/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from fastaKtConv/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from fastaKtIdiom/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from mandelbrotJava/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from mandelbrotKtConv/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from mandelbrotKtIdiom/dat
-2019-03-30 16:48:41,760 INFO mkcsv building csv files from nbodyJava/dat
-2019-03-30 16:48:41,761 INFO mkcsv building csv files from nbodyKtConv/dat
-2019-03-30 16:48:41,761 INFO mkcsv building csv files from nbodyKtIdiom/dat
-2019-03-30 16:48:41,761 INFO mkcsv building csv files from spectralnormJava/dat
-2019-03-30 16:48:41,761 INFO mkcsv building csv files from spectralnormKtConv/dat
-2019-03-30 16:48:41,761 INFO mkcsv building csv files from spectralnormKtIdiom/dat
-2019-03-30 16:48:41,762 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
-2019-03-30 16:48:41,762 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
-2019-03-30 16:48:41,764 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
+2019-03-30 18:16:02,903 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesjava
+2019-03-30 18:16:02,903 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesjava/log
+2019-03-30 18:16:02,903 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesjava/dat
+2019-03-30 18:16:02,903 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesjava/code
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktconv
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktconv/log
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktconv/dat
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktconv/code
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktidiom
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktidiom/log
+2019-03-30 18:16:02,904 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktidiom/dat
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/binarytreesktidiom/code
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxjava
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxjava/log
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxjava/dat
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxjava/code
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktconv
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktconv/log
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktconv/dat
+2019-03-30 18:16:02,905 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktconv/code
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktidiom
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktidiom/log
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktidiom/dat
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fannkuchreduxktidiom/code
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastajava
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastajava/log
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastajava/dat
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastajava/code
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktconv
+2019-03-30 18:16:02,906 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktconv/log
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktconv/dat
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktconv/code
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktidiom
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktidiom/log
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktidiom/dat
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/fastaktidiom/code
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotjava
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotjava/log
+2019-03-30 18:16:02,907 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotjava/dat
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotjava/code
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktconv
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktconv/log
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktconv/dat
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktconv/code
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktidiom
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktidiom/log
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktidiom/dat
+2019-03-30 18:16:02,908 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/mandelbrotktidiom/code
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyjava
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyjava/log
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyjava/dat
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyjava/code
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktconv
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktconv/log
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktconv/dat
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktconv/code
+2019-03-30 18:16:02,909 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktidiom
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktidiom/log
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktidiom/dat
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/nbodyktidiom/code
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormjava
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormjava/log
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormjava/dat
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormjava/code
+2019-03-30 18:16:02,910 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktconv
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktconv/log
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktconv/dat
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktconv/code
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktidiom
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktidiom/log
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktidiom/dat
+2019-03-30 18:16:02,911 DEBUG mkdir /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/tmp/spectralnormktidiom/code
+2019-03-30 18:16:07,899 INFO .OK binarytreesjava.java [18]
+2019-03-30 18:16:17,230 INFO .OK binarytreesktconv.kt [17]
+2019-03-30 18:16:26,610 INFO .OK binarytreesktidiom.kt [16]
+2019-03-30 18:16:28,024 INFO .OK fannkuchreduxjava.java [15]
+2019-03-30 18:16:34,017 INFO .OK fannkuchreduxktconv.kt [14]
+2019-03-30 18:16:40,327 INFO .OK fannkuchreduxktidiom.kt [13]
+2019-03-30 18:16:43,570 INFO .OK fastajava.java [12]
+2019-03-30 18:16:53,192 INFO .OK fastaktconv.kt [11]
+2019-03-30 18:17:02,955 INFO .OK fastaktidiom.kt [10]
+2019-03-30 18:17:11,053 INFO .OK mandelbrotjava.java [9]
+2019-03-30 18:17:23,807 INFO .OK mandelbrotktconv.kt [8]
+2019-03-30 18:17:44,783 INFO .OK mandelbrotktidiom.kt [7]
+2019-03-30 18:17:52,848 INFO .OK nbodyjava.java [6]
+2019-03-30 18:18:06,460 INFO .OK nbodyktconv.kt [5]
+2019-03-30 18:18:20,089 INFO .OK nbodyktidiom.kt [4]
+2019-03-30 18:18:24,347 INFO .OK spectralnormjava.java [3]
+2019-03-30 18:18:33,722 INFO .OK spectralnormktconv.kt [2]
+2019-03-30 18:18:42,019 INFO .OK spectralnormktidiom.kt [1]
+2019-03-30 18:18:42,019 INFO mkcsv building csv files from binarytreesjava/dat
+2019-03-30 18:18:42,019 INFO mkcsv building csv files from binarytreesktconv/dat
+2019-03-30 18:18:42,019 INFO mkcsv building csv files from binarytreesktidiom/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from fannkuchreduxjava/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from fannkuchreduxktconv/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from fannkuchreduxktidiom/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from fastajava/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from fastaktconv/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from fastaktidiom/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from mandelbrotjava/dat
+2019-03-30 18:18:42,020 INFO mkcsv building csv files from mandelbrotktconv/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from mandelbrotktidiom/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from nbodyjava/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from nbodyktconv/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from nbodyktidiom/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from spectralnormjava/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from spectralnormktconv/dat
+2019-03-30 18:18:42,021 INFO mkcsv building csv files from spectralnormktidiom/dat
+2019-03-30 18:18:42,022 INFO copy *.csv files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/summary
+2019-03-30 18:18:42,022 INFO copy *.code files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_markup
+2019-03-30 18:18:42,023 INFO copy *.log files to /home/jakub/Documents/javakotlinbenchmarks-measurement-script/javakotlinbenchmark-measurement-script/run_logs
