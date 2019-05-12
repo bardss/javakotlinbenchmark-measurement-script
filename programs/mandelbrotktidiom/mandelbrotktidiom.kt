@@ -82,8 +82,10 @@ object mandelbrotktidiom {
                     }
                 }
             }
-        pool.filterNotNull().forEach { thread ->
+	pool.filterNotNull().forEach { thread ->
             thread.start()
+        }
+        pool.filterNotNull().forEach { thread ->
             thread.join()
         }
 
