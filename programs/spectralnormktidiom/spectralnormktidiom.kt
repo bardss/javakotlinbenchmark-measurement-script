@@ -45,16 +45,11 @@ object spectralnormktidiom {
         var vBv = 0.0
         var vv = 0.0
         for (i in 0 until nthread) {
-            try {
-                ap[i]?.let { approximate ->
-                    approximate.join()
-                    vBv += approximate.m_vBv
-                    vv += approximate.m_vv
-                }
-            } catch (e: Exception) {
-                e.printStackTrace()
+            ap[i]?.let { approximate ->
+                approximate.join()
+                vBv += approximate.m_vBv
+                vv += approximate.m_vv
             }
-
         }
 
         return Math.sqrt(vBv / vv)
